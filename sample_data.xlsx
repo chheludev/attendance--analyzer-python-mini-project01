@@ -1,0 +1,11 @@
+student_id,student_name,subject_code,subject_name,date,status
+ST001,John Doe,CS101,Computer Science,2024-01-15,Present
+ST002,Jane Smith,CS101,Computer Science,2024-01-15,Absent
+ST003,Mike Johnson,CS101,Computer Science,2024-01-15,Present
+ST001,John Doe,MATH201,Mathematics,2024-01-16,Present
+ST002,Jane Smith,MATH201,Mathematics,2024-01-16,Late
+ST003,Mike Johnson,MATH201,Mathematics,2024-01-16,Present
+ST004,Sarah Wilson,CS101,Computer Science,2024-01-17,Present
+ST004,Sarah Wilson,MATH201,Mathematics,2024-01-17,Absent
+ST005,David Brown,CS101,Computer Science,2024-01-18,Present
+ST005,David Brown,MATH201,Mathematics,2024-01-18,Present
