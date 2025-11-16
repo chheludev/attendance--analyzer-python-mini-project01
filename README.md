@@ -1,7 +1,6 @@
 # Student Attendance Management System
 
-**Created by: [Your Name]**  
-**Student ID: [Your Student ID]**  
+**Created by: chhelu , viren , akshit , dhairya**  
 **Course: Python Programming**  
 **Date: December 2024**
 
